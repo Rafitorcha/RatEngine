@@ -1,0 +1,28 @@
+.textCenter{
+text-align: center;
+}
+
+.starColor{
+color: var(--azulOscuro);
+margin: 0.1rem;
+}
+
+.cardContainer{
+background-color: var(--azulClaro);
+border-radius: 0.5rem;
+padding: 0.5rem;
+}
+
+#containerGeneral{
+display:flex;
+justify-content: center;
+margin: 0.5rem;
+}
+
+.starChecked{
+color: var(--rojo);
+}
+
+.margin{
+margin: 0 0 0.5rem 0;
+}
